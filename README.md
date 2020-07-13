@@ -1,1 +1,1 @@
-# KaggleCcompetition-Notebooks
+# Kaggle-Competition-Notebooks
